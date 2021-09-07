@@ -1,0 +1,37 @@
+Name it something reasonable or die. 
+
+Make it easy to search for the file through the search bar in File Explorer. 
+If you believe there is something missing from the list please add it and mention it in your git push.
+
+All measurements are in Inches or Millimeters. 
+Must be capitalized correctly. 
+
+Metal Extruded Items: 
+	Diameter/Width/Height : Name : (Length and Extra information)
+		Churros 
+		Extrusions
+		C-Channels
+
+Wheels: 
+	Diameter : Name : (Extra information and width if there are varying widths) 
+		Mecanum 
+		Compliant
+		Omni
+
+Shafts: 
+	Diameter : Name : (Length and extra information)
+		Hex Shaft
+		D-Shaft
+
+Bearings: 
+	Diameter : Name : (Length, type, and extra information)
+		Hex Through Bore Bearing
+		Hex Bearing Block
+
+Motors: 
+	Name : (Gear ratio, extra information)
+		NeveRest 20:1 Orbital Motor
+
+Gears, Pulleys, Sprockets: 
+	# of Teeth : Name : (Extra Information)
+		60 Tooth Pulley 
