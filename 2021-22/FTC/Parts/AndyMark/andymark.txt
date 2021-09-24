@@ -1,0 +1,368 @@
+929.3 k   am-3664 2in 5mm Hex Bore Stealth Wheel REV3.STEP
+918.4 k   am-3664 2in 5mm Hex Stealth Wheel REV2.STEP
+919.3 k   am-3664 2in Stealth Wheel 5mm HEX.STEP
+2.2 M     am-3665 4IN 5mm Hex Stealth Wheel REV2.STEP
+2.2 M     am-3665 4in Stealth Wheel 5mm Hex.STEP
+59.2 k    am-3666 - 375 Churro Lite.STEP
+59.1 k    am-3666 375 Churro REV2.STEP
+416.6 k   am-3667 12mm Bearing Nub.STEP
+385.6 k   am-3668 Servo Nub REV2.STEP
+379.5 k   am-3668 Servo Nub with Set Screw.STEP
+269.5 k   am-3669 5mm Single Boss Hex Nub with Set Screw REV2.STEP
+269.5 k   am-3669 5mm Single Boss Hex Nub with Set Screw.STEP
+279.1 k   am-3670 5mm Double Boss Hex Nub wth Set Screw.STEP
+292.9 k   am-3671 5mm XL Double Boss Hex Nub with Set Screw REV2.STEP
+292.9 k   am-3671 5mm XL Double Boss Hex Nub with Set Screw.STEP
+151.8 k   am-3672 PicoBox Servo Shaft Plate REV2.STEP
+151.7 k   am-3672 PicoBox Servo Shaft Plate.STEP
+201.6 k   am-3673 PicoBox Servo Motor Plate REV2.STEP
+201.6 k   am-3673 Picobox Servo Motor Plate.STEP
+149.6 k   am-3674 - BR18 Side Bumper Bracket.STEP
+112.3 k   am-3675 - BR18 Front.Corner Bumper Bracket.STEP
+17.4 k    am-3678 - Small Boss 775 Sport Bushing.STEP
+16.7 k    am-3679 - 550 Sport Bushing REV2.STEP
+17.4 k    am-3679 - 550 Sport Bushing.STEP
+1.6 M     am-3682 35t NR Pinion Gear Assembly.STEP
+1.6 M     am-3683 40t NR Pinion Gear Assembly.STEP
+1.7 M     am-3684 45t NR Pinion Gear Assembly.STEP
+66.8 k    am-3685-16 .3125 Hex Standoff, 16mm Long.STEP
+65.6 k    am-3685-16 .3125IN Hex Standoff, 16mm Long REV2.STEP
+78.1 k    am-3685-32 .3125IN Hex Standoff, 32mm Long REV2.STEP
+79.4 k    am-3685-32 .3125IN Hex Standoff, 32mm Long.STEP
+79.3 k    am-3685-64 .3125IN Hex Standoff, 64mm Long.STEP
+89.2 k    am-3686-32 S3 Pulley Plate 32mm.STEP
+185.6 k   am-3686-64 S3 Pulley Plate 64mm.STEP
+193.7 k   am-3687 S3 Battery Mount.STEP
+130.6 k   am-3692 2 775 to CIM Output Output Plate REV2.STEP
+119.3 k   am-3692 DeCIMate Output Plate.STEP
+76.4 k    am-3693 DeCIMate Motor Plate.STEP
+523.6 k   am-3694 45T 32DP 20PA 0.375 HEX BORE GEAR.STEP
+167.5 k   am-3695 DeCIMate Output Shaft.STEP
+196.7 k   am-3696 PicoBox Twin Servo Shaft Plate REV2.STEP
+296.2 k   am-3697 Picobox Twin Servo Motor Plate REV2.STEP
+1.7 M     am-3699 PP45 Distribution Board.STEP
+651.9 k   am-3712 56T 20dp 0.5 bore and BC.STEP
+51.7 k    am-3721 0.875 Bearing Plate.STEP
+51.7 k    am-3722 1.125 Bearing Plate.STEP
+89.4 k    am-3723 Bosch AHC-2 12V 500 Hex Adapter Shaft.STEP
+89.2 k    am-3727 Pulley Plate 32mm.STEP
+185.6 k   am-3728 Pulley Plate 64mm.STEP
+2.1 M     am-3735B am-3735R Cryptobox.STEP
+2.5 M     am-3736B am-3736R Balancing Stone.STEP
+10.1 M    am-3740 DM3012-1063.step
+30.1 k    am-3744 500 Hex-D Shaft Adapter.STEP
+25.0 k    am-3744 500-D Shaft Adapter.STEP
+3.7 M     am-3745 DeCIMate Ver1.3.STEP
+113.2 k   am-3745 PicoBox Orbital MEO Plate REV3.STEP
+6.9 M     am-3749 AM Mag Encoder.STEP
+2.7 M     am-3754 - 16_1 - 57 Sport.STEP
+2.6 M     am-3755 - 20_1 - 57 Sport.STEP
+4.3 M     am-3756 - 64_1 - 57 Sport.STEP
+4.5 M     am-3757 - 80_1 - 57 Sport.STEP
+4.3 M     am-3758 - 100_1 - 57 Sport.STEP
+2.9 M     am-3759 - 4_1 CIM Sport.STEP
+2.7 M     am-3760 - 12_1 - CIM Sport.STEP
+2.7 M     am-3761 - 16_1 - CIM Sport.STEP
+4.6 M     am-3762 - 36_1 - CIM Sport.STEP
+4.6 M     am-3763 - 48_1 - CIM Sport.STEP
+4.3 M     am-3764 - 64_1 - CIM Sport.STEP
+144.6 k   am-3765 - 57 Sport Motor Block.STEP
+47.8 k    am-3769 - Cim Sport Short Motor Block.STEP
+58.3 k    am-3769a CIM and Falcon Sport Motor Block Short.STEP
+81.7 k    am-3770 - Cim Sport Motor Block.STEP
+191.8 k   am-3771 16T CIM Sport Gear.STEP
+1.7 M     am-3772 1.25, 20T, 500 Hex Bore.STEP
+9.1 M     am-3773 RedLine Encoder Kit.STEP
+1.6 M     am-3775 RedLine Motor.STEP
+2.1 M     am-3775_12T 775 RedLine with 12T Pinion.STEP
+1.7 M     am-3775a AndyMark RedLine Motor.STEP
+1.9 M     am-3775a_12T 775 RedLine with 12T Pinion.STEP
+2.1 M     am-3775a_16T 775a RedLine with 16T Pinion.STEP
+1.6 M     am-3776  Miter Gear 1.25, 20T, 8mm, 2mm Key Bore.STEP
+4.3 M     am-3778 Talon_Tach_1.0.STEP
+9.4 M     am-3780 CANifier_1.0.STEP
+113.1 k   am-3781 2IN Long Sport Gearbox Shaft.STEP
+197.8 k   am-3783 - RS-500 Motor Pinion Gear.STEP
+191.6 k   am-3784 - RS-700 Motor Pinion Gear.STEP
+191.7 k   am-3785 - CIM Sport 16T Pinion Gear.STEP
+92.7 k    am-3786 CIM Mount Side Mount.STEP
+51.0 k    am-3787 - Sport Face Mount.STEP
+106.4 k   am-3791 - 3000 x 500 Hex Shaft.STEP
+120.7 k   am-3792 500 round collar clamp.stp
+67.7 k    am-3793 2x1 Elevator Small Bearing Plate.STEP
+44.2 k    am-3793a 2x1 Elevator Small Bearing Plate R2.STEP
+167.0 k   am-3794 2x1 Elevator Large Bearing Plate.STEP
+129.1 k   am-3794a 2x1 Elevator Large Bearing Plate R3.STEP
+660.9 k   am-3795 Sport Gearbox 500Hex Female Output Adapter.STEP
+17.4 k    am-3803 1.1 LJ BevelBox Cim Spacer.STEP
+3.7 M     am-3804 2 Stage 2 CIM Evo Slim.STEP
+3.8 M     am-3805 2 Stage 3 CIM Evo Slim.STEP
+8.9 M     am-3806 2 Stage 4 RedLine EVO Slim.STEP
+59.9 k    am-3813 2 Stage Evo Slim Churro Spacer.STEP
+52.5 k    am-3814 2 Stage EVO Slim Cluster Shaft.STEP
+391.0 k   am-3815 32T 20DP 500hex 375 FW.STEP
+661.7 k   am-3816 36T 20DP 500hex 375 FW.STEP
+536.4 k   am-3819 46T 20DP 500hex 375 FW.STEP
+253.8 k   am-3820 20T 20DP 375hex 375 FW.STEP
+598.9 k   am-3821 52T 20DP 500hex 375 FW.STEP
+640.3 k   am-3822 56T 20DP 500hex 375 FW.STEP
+516.6 k   am-3823 Evo Shifter 4 775 Motor Plate.STEP
+608.5 k   am-3826 Aluminum Pinion Press Tool for RS550 and RS775 class motors.STEP
+1.0 M     am-3826a Aluminum Pinion Press Tool.STEP
+942.2 k   am-3827 CAN Connector.STEP
+1.0 M     am-3829 LIDAR Lite 3.STEP
+294.9 k   am-3830 BaneBot550Motor.STEP
+34.4 k    am-3832 375H to 500H Adapter.STEP
+8.4 M     am-3833 Limelight Camera.stp
+16.7 k    am-3834 .388 thick LJ Sport Spacer.STEP
+6.7 M     am-3838 1.1 LJ BevelBox Gearbox.STEP
+4.3 M     am-3839 1.1 LJ BevelBox Gearbox.STEP
+2.2 M     am-3840 1.1 LJ BevelBox Gearbox.STEP
+1.1 M     am-3844 2x1 Elevator Assembly Example.STEP
+1.8 M     am-3844a Example Single Stage Elevator Bearing Kit.STEP
+53.2 k    am-3859 EVO Slim for 2 CIM and 3 CIM Encoder Mount Pad.STEP
+61.2 k    am-3860 90 Gusset REV2.STEP
+46.6 k    am-3860 90 Gusset.STEP
+1.3 M     am-3862 Crater Section.STEP
+90.1 k    am-3865 Blank Hub.STEP
+9.2 M     am-3866L 10 in. Mecanum Left 3 Hole Version.STEP
+9.3 M     am-3866R 10 in. Mecanum Right 3 Hole Version.STEP
+336.5 k   am-3868 6in Performance Wheel Bearing Bore.STEP
+161.0 k   am-3868-1 6in Performance Wheel Extrusion, 1ft.STEP
+1.6 M     am-3870 FTC Sizing Tool.STEP
+1.3 M     am-3871 pressure relief valve.STEP
+194.0 k   am-3872a Lander Leg.STEP
+59.2 k    am-3873 3.000in Churro.STEP
+54.1 k    am-3874 Foot Cap Bracket.STEP
+62.7 k    am-3875 Crater Clip Bracket.STEP
+376.3 k   am-3878 Top Dome.STEP
+29.0 k    am-3879 Leg Strut.STEP
+59.5 k    am-3880 Hinge Bracket.STEP
+20.7 k    am-3881 4in Under Tile Disk.STEP
+45.2 k    am-3882 Ball Floor Panel.STEP
+45.2 k    am-3883 Cube Floor Panel.STEP
+88.7 k    am-3884 Side Panel.STEP
+470.6 k   am-3885 Corner Bracket.STEP
+90.8 k    am-3886 Climbing Handle.STEP
+150.1 k   am-3887 Internal Long Wall.STEP
+128.3 k   am-3888 Internal Short Wall.STEP
+1.4 M     am-3890_Crater.STEP
+20.4 M    am-3890_FGS Rover Ruckus Full Game Set.STEP
+13.8 M    am-3890_Lander.STEP
+43.7 k    am-3896-1200 1.20in Hex Spacer Extrusion.STEP
+257.8 k   am-3899 PicoBox Servo Motor Plate REV2.STEP
+78.9 M    am-3900b.STEP
+137.1 k   am-3901 PicoBox Servo Shaft Plate REV2.STEP
+5.1 M     am-3902 am-3903 2in Omni 14mm Hex.STEP
+255.9 k   am-3904 14mm Hex to 500in Hex.STEP
+241.4 k   am-3905 14mm Hex to 375in Hex.STEP
+3.2 M     am-3906 PicoBox Servo.STEP
+5.3 M     am-3907 PicoBox Super Servo.STEP
+4.8 M     am-3908 PicoBox Twin Servo.STEP
+2.0 M     am-3914_35 35 Chain Tensioner.STEP
+884.0 k   am-3915_25 25 Chain Inline Tensioner REV2.STEP
+884.0 k   am-3915_25 25 Chain Inline Tensioner REV3.STEP
+3.2 M     am-3918L 4HD 500H Mecanum Left.STEP
+3.1 M     am-3918R 4HD 500H Mecanum Right.STEP
+3.2 M     am-3919L 4in HD FTC Mecanum Left.STEP
+3.2 M     am-3919R 4in HD FTC Mecanum Right.STEP
+494.7 k   am-3920 AM14U4 End Plate.STEP
+319.2 k   am-3921 AM14U4 Outside Plate.STEP
+458.8 k   am-3922 AM14U4 Inside Plate.STEP
+139.1 k   am-3930 Aluminum 8IN Pneumatic Wheel Rim.STEP
+584.6 k   am-3931 Aluminum 8IN Pneumatic Wheel Bearing BoreCore.STEP
+661.1 k   am-3932 Aluminum 8IN Pneumatic Wheel 500IN Hex BoreCore.STEP
+1.0 M     am-3933 8IN HD Pneumatic Wheel Hub Assembly 1.125 Bearing Bore.STEP
+1.0 M     am-3934 8IN HD Pneumatic Wheel Hub Assembly 500IN Hex Bore.STEP
+920.6 k   am-3935 Aluminum 8IN Pneumatic Bearing Bore Wheel.STEP
+1.4 M     am-3936 Aluminum 8IN Pneumatic 500IN Hex Bore Wheel.STEP
+1.4 M     am-3945 3IN 375Hex Molded Compliant Wheel VER 2.STEP
+1.4 M     am-3945 3IN 500Hex Compliant Wheel REV 3.STEP
+1.4 M     am-3946 3IN 375Hex Compliant Wheel REV 3.STEP
+1.4 M     am-3946 3IN 500Hex Molded Compliant Wheel VER 2.STEP
+22.4 k    am-3947-063 375H x 063IN Spacer.STEP
+22.3 k    am-3947-1000 375H x 1000IN Spacer.STEP
+22.3 k    am-3947-125 375H x 125IN Spacer.STEP
+25.3 k    am-3947-188 375H x 188IN Spacer.STEP
+22.3 k    am-3947-250 375H x 250IN Spacer.STEP
+22.3 k    am-3947-375 375H x 375IN Spacer.STEP
+22.3 k    am-3947-500 375H x 500IN Spacer.STEP
+22.4 k    am-3948-063 500H x 063IN Spacer.STEP
+22.3 k    am-3948-1000 500H x 1000IN Spacer.STEP
+22.3 k    am-3948-125 500H x 125IN Spacer.STEP
+25.3 k    am-3948-188 500H x 188IN Spacer.STEP
+22.3 k    am-3948-250 500H x 250IN Spacer.STEP
+22.3 k    am-3948-375 500H x 375IN Spacer.STEP
+22.3 k    am-3948-500 500H x 500IN Spacer.STEP
+995.5 k   am-3949 2.25IN 500Hex HD Compliant Wheel.STEP
+893.5 k   am-3949 2.25N OverMolded 500Hex Compliant Wheel.STEP
+993.7 k   am-3950 2.25IN 375Hex HD Compliant Wheel.STEP
+875.3 k   am-3950 2.25IN OverMolded 375Hex Compliant Wheel.STEP
+5.2 M     am-3951 am-3953 2in Omni 500in Hex.STEP
+5.2 M     am-3952 am-3955 2in Omni 375in Hex.STEP
+113.5 k   am-3958 AM14U4 Vertical Battery Mount C Plate.STEP
+82.1 k    am-3959 AM14U4 Vertical Battery Mount Floor Plate.STEP
+36.1 k    am-3960 AM14U4 Vertical Battery Mount Strap Clamp.STEP
+156.9 k   am-3961 AM14U4 2019 Front Bumper Bracket.STEP
+182.7 k   am-3962 AM14U4 2019 Side Bumper Bracket.STEP
+3.3 M     am-3964 AM14U4 Vertical Battery Mount Assembly.STEP
+2.7 M     am-3964a AM14U4 2020 Battery Mount Assembly.STEP
+68.5 k    am-3968 S3 Linear Motion Main Bracket.STEP
+34.4 k    am-3971 S3 Linear Motion Bearing Holder.STEP
+519.1 k   am-3974 AM14U4 Cross Plate.STEP
+674.6 k   am-3975 AM14U4 Cross Plate XL.STEP
+720.6 k   am-3976 40T 20DP 375hex 375 FW.STEP
+884.0 k   am-3977 48T 20DP 375hex 375 FW With Holes.STEP
+37.6 k    am-3986-440 0.440in Hex Spacer Extrusion.STEP
+1.1 M     am-3999 17T 25 Chain Double Sprocket For WCD.STEP
+8.1 M     am-4010 Dual 775 2 Motor Sport 1 Stage.STEP
+9.4 M     am-4010 Dual 775 2 Motor Sport 2 Stage REV2.STEP
+9.7 M     am-4010 Dual 775 2 Motor Sport 3 Stage.STEP
+408.7 k   am-4011L Raptor Track Drive Inside Plate Left.STEP
+408.6 k   am-4011R Raptor Track Drive Inside Plate Right.STEP
+312.2 k   am-4012L Raptor Track Drive Outside Plate Left.STEP
+312.6 k   am-4012R Raptor Track Drive Outside Plate Right.STEP
+489.4 k   am-4018_Stone.STEP
+18.6 M    am-4020 Raptor Track Drive.STEP
+242.3 k   am-4032 12T 32DP 125 Bore Gear.STEP
+3.4 M     am-4035_Foundation - Top.STEP
+267.5 k   am-4036_Foundation - Bottom.STEP
+382.6 k   am-4042_Skybridge_Closed_End_Cap.STEP
+316.0 k   am-4043_Skybridge_Open_End_Cap.STEP
+129.0 k   am-4045_Book_End.STEP
+67.6 k    am-4046_Foot_Bracket.STEP
+82.7 k    am-4047_Skybridge_Support.STEP
+16.7 k    am-4050_End_Bar.STEP
+16.7 k    am-4050_Middle_Bar.STEP
+40.7 k    am-4051_Floor_Plate.STEP
+384.7 k   am-4052_Skyscraper.STEP
+4.1 M     am-4057 Foundation Assembly.STEP
+3.5 M     am-4058_Skybridge.STEP
+13.4 M    am-4060 Skystone Full Game Set 10-2-19.STEP
+13.4 M    am-4060 Skystone Full Game Set 8-19-19.STEP
+288.9 k   am-4075 16T 20DP 8mm Key CIM Gear.STEP
+242.3 k   am-4094 Rover Drive Rail.STEP
+48.8 M    am-4100_MK6 6IN SR Mecanum Rover.STEP
+59.6 M    am-4100_MK6 Rover With 6IN Mecanum Wheels Rev2.STEP
+50.2 M    am-4100_PN8 8IN Pneumatic Rover.STEP
+53.8 M    am-4100_PN8 Rover With 8IN Pneumatic Wheels Rev2.STEP
+2.4 M     am-4108 775 MultiMount Board.STEP
+2.6 M     am-4109 550 MultiMount Board.STEP
+81.4 k    am-4112 30A mini auto reset.STEP
+105.1 k   am-4117 Bearing Hub.STEP
+105.7 k   am-4118 Blank Hub.STEP
+112.5 k   am-4119 8mm Key Hub.STEP
+112.5 k   am-4120 375 Key Hub.STEP
+112.5 k   am-4121 500 Key Hub.STEP
+108.2 k   am-4122 625 Key Hub.STEP
+146.4 k   am-4123 375 Hex Hub.STEP
+146.4 k   am-4124 500 Hex Hub.STEP
+1.3 M     am-4130 CAN Connector.STEP
+364.2 k   am-4131 Rover End Rail.STEP
+56.9 k    am-4132 57 Sport Flange Mount.STEP
+3.7 M     am-4136 S3 Linear Motion Kit - Single Bearing Assembly.STEP
+109.9 k   am-4142 1IN Long Sport Gearbox Shaft.STEP
+551.5 k   am-4144 16T Mod 0.7 Gear Spline Bore Falcon 500 Pinion.STEP
+807.7 k   am-4145 12T Falcon 500 S&S Shaft Gear.STEP
+657.3 k   am-4146 12T 20DP Gear Spline Bore Falcon 500 Pinion.STEP
+702.2 k   am-4147 14T 20DP Gear Spline Bore Falcon 500 Pinion.STEP
+512.8 k   am-4148a 15T 32DP Gear Spline Bore Falcon 500 Pinion with Counterbore.STEP
+60.8 k    am-4158 1IN Tee Gusset.STEP
+85.0 k    am-4159 1IN Quad Gusset.STEP
+55.9 k    am-4160 1IN 30deg Gusset.STEP
+56.1 k    am-4161 1in 45deg Gusset.STEP
+56.0 k    am-4162 1in 60deg Gusset.STEP
+56.0 k    am-4163 1in 120deg Gusset.STEP
+56.1 k    am-4164 1in 135deg Gusset.STEP
+56.1 k    am-4165 1in 150deg Gusset.STEP
+48.7 k    am-4166 1IN Sport Double Bearing Mount.STEP
+53.6 k    am-4167 1IN 57Sport Side Mount Gusset.STEP
+53.6 k    am-4168 1IN Bearing Side Mount Gusset.STEP
+60.8 k    am-4169 Sport Side Flange Mount.STEP
+374.3 k   am-4175 4IN Extrusion Performance Wheel 1.5IN Wide 500 hex.STEP
+329.8 k   am-4176 4IN Extrusion Performance Wheel 1.5IN Wide 1125 Bearing.STEP
+321.6 k   am-4177 6in Perf 1.5wide 500 Hex.STEP
+287.6 k   am-4178 6in Perf 1.5wide 1.125 Bearing.STEP
+4.0 M     am-4179 Lamprey Absolute Encoder.STEP
+10.9 k    am-4180 Lamprey Absolute Encoder Magnet Ring.STEP
+156.7 k   am-4181_25 25 Chain Attachment Link.STEP
+156.5 k   am-4181_35 35 Chain Attachment Link.STEP
+30.6 M    am-4183_004 1 Stage Falcon Sport With Motor.STEP
+30.6 M    am-4183_0XX 2 Stage Falcon Sport With Motor.STEP
+30.5 M    am-4184_0XX 2 Stage HD Falcon Sport With Motor.STEP
+26.5 M    am-4184_XXX 3 Stage HD Falcon Sport With Motor.STEP
+748.0 k   am-4185 14-28 RH Female Aluminum Rod End.STEP
+670.5 k   am-4186 35T 20DP 375hex 375 FW.STEP
+160.8 k   am-4188 4 Tooth Dog Lockout Plate.STEP
+4.4 M     am-4189 6in pneumatic wheel.STEP
+4.9 M     am-4190 Lamprey Absolute Encoder Assembly.STEP
+31.8 M    am-4194 Falcon Flyer Gearbox.STEP
+1.5 M     am-4198 Sport Add On Stage.STEP
+528.6 k   am-4201 16T 20DP Gear Spline Bore Falcon 500 Pinion.STEP
+44.9 k    am-4203 1x1x0625 wall tubing.STEP
+44.9 k    am-4204 1x1x0.125 wall tubing.STEP
+44.8 k    am-4205 2x1x0.125 wall tubing.STEP
+387.6 k   am-4212 18T 20DP 500hex 375 FW.STEP
+380.4 k   am-4213 20T 20DP 500hex 375 FW.STEP
+447.3 k   am-4214 24T 20DP 500hex 375 FW.STEP
+559.7 k   am-4215 30T 20DP 500hex 375 FW.STEP
+376.4 k   am-4216 Flyer Gearbox Plate.STEP
+1010.6 ...am-4217 Wobble Goal Base.STEP
+10.5 M    am-4226 Sport Flyer Gearbox.STEP
+8.9 M     am-4227 CIM Flyer Gearbox.STEP
+707.3 k   am-4230 JE motor.STEP
+266.4 k   am-4239 Tower Goal Net.STEP
+123.3 k   am-4244 1IN Bent Bearing Side Mount Gusset.STEP
+652.6 k   am-4246 CFU5-13 Cam Follower.STEP
+4.9 M     am-4250 PG516 500 hex+Motor+Encoder.STEP
+4.9 M     am-4252 12V 192to1 Gearmotor with 500hex Output .STEP
+888.7 k   am-4254 30T 16DP 14.5PA 500Hex Bore Gear VER2.STEP
+2.0 M     am-4255.stp
+368.1 k   am-4258_15T NEO with 15T 32DP Pinion for EVO Gearboxes.STEP
+377.6 k   am-4258_16T NEO with 16T 0.6mod Pinion for Sport Gearboxes.STEP
+2.1 M     am-4259_12T NEO550 with 12T 32DP Pinion.STEP
+2.1 M     am-4259_16T NEO550 with 16T 0.7mod Pinion for Sport Gearboxes.STEP
+4.9 M     am-4270 PG977 500 hex+Motor+Encoder.STEP
+881.3 k   am-4274 Tower Goal Foot r4.STEP
+63.8 k    am-4275 Side Net Lower Clip.STEP
+43.9 k    am-4276 Power Shot Reset Strut.STEP
+133.3 k   am-4277 Floor.STEP
+16.7 k    am-4278 Frame - Vertical.STEP
+16.7 k    am-4279 Frame - Side to Side.STEP
+16.7 k    am-4280 Frame - Front to Back.STEP
+37.1 k    am-4281_2_Black 90deg PVC Elbow Black.STEP
+159.7 k   am-4281_3_Black 3-way PVC Elbow Black.STEP
+172.5 k   am-4281_4_Black 4-Way PVC Tee Black.STEP
+20.1 k    am-4283 Sleeve - Low Goal Raiser.STEP
+20.1 k    am-4284 Sleeve - Mid Goal Raiser.STEP
+18.4 k    am-4285 Sleeve - Flat to angled Back Top.STEP
+18.4 k    am-4286 Sleeve - Flat to angled Front Top.STEP
+96.4 k    am-4287 Tower Goal Floor.STEP
+70.3 k    am-4288 Backboard.STEP
+548.0 k   am-4289 Tower Goal Trough.STEP
+562.4 k   am-4290 Tower Goal Corral.STEP
+1.1 M     am-4291 Wobble Goal.STEP
+3.2 M     am-4292 Side Net.STEP
+16.6 k    am-4293 Wobble Goal Pipe.STEP
+59.1 k    am-4294 Poewr Shot Target.STEP
+909.1 k   am-4295 Power Shot Crossbar.STEP
+202.1 k   am-4296 Vertical Peanut.STEP
+26.1 k    am-4297 Wobble Goal Pipe Cap.STEP
+52.3 k    am-4300 Ring.STEP
+19.9 M    am-4301 ULTIMATE GOAL Full Game Set and Field.STEP
+19.9 k    am-4302 Hinge Pin.STEP
+550.6 k   am-4303 Tower Goal Return Rack.STEP
+192.2 k   am-4304 Side Mount Bracket.STEP
+111.0 k   am-4305 Power Shot Peanut Cap.STEP
+59.2 k    am-4307 Churro reset bar.STEP
+59.2 k    am-4307 Power Shot Churro.STEP
+48.1 k    am-4336 Wobble Goal Shelf.STEP
+57.4 k    am-4337 Net Support Pipe .STEP
+186.1 k   am-4376 17T NeveRest Orbital Pinion.STEP
+5.5 M     am-4415_Blue Tower Goal and Power Shot Blue.STEP
+5.5 M     am-4415_Red Tower Goal and Power Shot Red.STEP
+4.2 M     am-4546 FRC Home Practice Perimeter.STEP
+24.9 M    am-6515 Falcon 500 Brushless Motor with Long Shaft.STEP
+24.8 M    am-6515_Short Falcon 500 Brushless Motor with Short Shaft.STEP
+994.2 k   am-6958 Falcon 500 Short Shaft.STEP
+996.5 k   am-6959 Falcon 500 Long Shaft.STEP
